@@ -658,26 +658,26 @@ html {
 }
 
 .watch-top-control {
-  top: 22vh;
+  top: 35%;
   left: 50%;
   transform: translateX(-50%);
 }
 
 .watch-right-control {
   top: 50%;
-  right: 2rem;
+  right: 12%;
   transform: translateY(-50%);
 }
 
 .watch-bottom-control {
   left: 50%;
-  bottom: 20vh;
+  bottom: 35%;
   transform: translateX(-50%);
 }
 
 .watch-left-control {
   top: 50%;
-  left: 2rem;
+  left: 12%;
   transform: translateY(-50%);
 }
 /* End of Watch Controls */
@@ -791,7 +791,7 @@ html {
 /* End of Section 6 */
 
 /* Responsive */
-@media (max-width: 1500px) {
+@media (max-width: 1600px) {
   html {
     font-size: 45%;
   }
